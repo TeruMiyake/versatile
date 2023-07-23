@@ -12,5 +12,5 @@
 			]
 		}
 	},
-	"postCreateCommand": "git config --global core.editor /usr/bin/vim && git config --global user.name \"TeruMiyake\" && git config --global user.email \"miyake@terum.jp\" && git config --global --add safe.directory /home/node/versatile"
+	"postCreateCommand": "git config --global core.editor /usr/bin/vim"
 }

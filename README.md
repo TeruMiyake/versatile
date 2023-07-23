@@ -1,15 +1,21 @@
+# Versatile
+
+Helps easily-distracted learners focus on important tasks.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+Clone the repository.
+
+```bash
+git clone https://github.com/TeruMiyake/versatile.git
+```
+
+Open the project directory with Visual Studio Code, and **Open In Containers** with _Dev Containers_ extension
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
